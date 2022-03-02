@@ -1,7 +1,9 @@
 #include <iostream>
+using namespace std ; 
 
 int main()
 {
-    std::cout << "Hello Baekjoon\n" ; 
-    return 0 ; 
+	cin.tie(nullptr) ; 
+	cin.sync_with_stdio(false) ; 
+	return 0 ; 
 }
